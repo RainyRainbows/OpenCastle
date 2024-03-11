@@ -1,0 +1,1 @@
+room_goto(snick_challengeend6)

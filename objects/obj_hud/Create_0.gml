@@ -1,0 +1,12 @@
+depth = -9999
+global.font = font_add_sprite_ext(spr_font, "ABCDEFGHIJKLMNOPQRSTUVWXYZ!.1234567890:", 1, 0)
+tx = 480
+ty = -100
+message = "HELLO WORLD"
+showtext = 0
+pause = 0
+blackscreen = 0
+cbtfade = 0
+transition = 0
+transx = 960
+transaudio = -1

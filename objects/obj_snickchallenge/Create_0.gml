@@ -1,0 +1,16 @@
+alarm[0] = room_speed
+alarm[1] = (room_speed * 4)
+showintro = 0
+x = (room_width / 2)
+y = (room_height / 2)
+xoffset = 0
+yoffset = 0
+showsnick = 0
+song = -1
+image_alpha = 0
+finished = 0
+fadeout = 0
+bulletx = 0
+bullety = 0
+shotbullet = 0
+missedbullet = 0

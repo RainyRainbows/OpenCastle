@@ -1,0 +1,2 @@
+targetRoom = room
+targetDoor = "A"

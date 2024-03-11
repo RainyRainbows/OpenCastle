@@ -1,0 +1,2 @@
+with (all)
+    visible = true

@@ -1,0 +1,12 @@
+image_speed = 0.35
+destinations[0] = "placeholder"
+sel = 0
+showdialog = 0
+message = "hey, ya want a ride?\n\nWhere to go..."
+go = 0
+telep = 0
+randomcancel = 1
+depth = -2
+fadeout = 0
+strongcold = 0
+gravstore = 0.5

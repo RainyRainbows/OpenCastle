@@ -1,0 +1,10 @@
+audio_sound_gain(sfx_mach3, 0.5, 0)
+audio_sound_gain(sfx_mach2, 0.5, 0)
+maxspeed = 16.2
+depth = -5
+shakex = 0
+shakey = 0
+camx = -1
+camy = -1
+camxoffset = 0
+camyoffset = 0

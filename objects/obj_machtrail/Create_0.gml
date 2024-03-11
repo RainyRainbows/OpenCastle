@@ -1,0 +1,9 @@
+image_blend = choose(255, 65280)
+image_xscale = obj_player.xscale
+image_yscale = obj_player.image_yscale
+image_angle = obj_player.image_angle
+image_speed = 0
+image_index = obj_player.image_index
+alarm[0] = 10
+sprite_index = obj_player.sprite_index
+alarm[1] = 2

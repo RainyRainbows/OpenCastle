@@ -1,0 +1,2 @@
+message = "you fell down?\nhahahaha yoU absolute piece of garbage\ndo you even know how to play the game?\nshaking my head, i can't believe how much of an honest piece of garbage you are\ni can't believe you're so retarded, dude\nyou could've just jumped that normally and properly\nlike an average human being but you fell down\ni cannot believe what my eyes are seeing right now\nWhere to go..."
+destinations[1] = 28
